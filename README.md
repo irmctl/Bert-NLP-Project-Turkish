@@ -41,6 +41,15 @@ Projede, OpenAI'nin GPT-3 API'si kullanılarak metin sınıflandırma sonrasınd
 ### Veritabanı İşlemleri (Database)
 - SQLite kullanılarak oluşturulan `nlp_project.db` veritabanı, kullanıcı girişlerini ve sınıflandırma sonuçlarını saklar.
 
+### Kaynaklar
+- https://medium.com/swlh/understand-tweets-better-with-bert-sentiment-analysis-3b054c4b802a
+- https://skimai.com/fine-tuning-bert-for-sentiment-analysis/
+- https://mccormickml.com/2019/07/22/BERT-fine-tuning/
+- https://github.com/ayyucekizrak/BERTileSentimentAnaliz/blob/master/BERT_ile_SentimentAnaliz/BERT_ile_Sentiment_Analiz.ipynb
+- https://medium.com/@ktoprakucar/bert-modeli-ile-t%C3%BCrk%C3%A7e-metinlerde-s%C4%B1n%C4%B1fland%C4%B1rma-yapmak-260f15a65611
+- https://github.com/melihbodur/Text_and_Audio_classification_with_Bert
+- https://platform.openai.com/docs/introduction
+
 # [English Below]
 
 # Artificial Intelligence Turkish Text Classification and Information Presentation Project
@@ -84,6 +93,15 @@ The project is divided into three main components: NLP Model Training, User Inte
 ### Database Operations
 - Utilizes SQLite to manage the `nlp_project.db` database.
 - Stores user entries and classification outcomes.
+
+### Sources
+- https://medium.com/swlh/understand-tweets-better-with-bert-sentiment-analysis-3b054c4b802a
+- https://skimai.com/fine-tuning-bert-for-sentiment-analysis/
+- https://mccormickml.com/2019/07/22/BERT-fine-tuning/
+- https://github.com/ayyucekizrak/BERTileSentimentAnaliz/blob/master/BERT_ile_SentimentAnaliz/BERT_ile_Sentiment_Analiz.ipynb
+- https://medium.com/@ktoprakucar/bert-modeli-ile-t%C3%BCrk%C3%A7e-metinlerde-s%C4%B1n%C4%B1fland%C4%B1rma-yapmak-260f15a65611
+- https://github.com/melihbodur/Text_and_Audio_classification_with_Bert
+- https://platform.openai.com/docs/introduction
 
 
 
